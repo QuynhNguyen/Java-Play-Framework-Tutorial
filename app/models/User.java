@@ -4,6 +4,7 @@ import javax.persistence.*;
 import java.util.*;
 import play.db.jpa.*;
 
+
 @Entity
 public class User extends Model {
 	
