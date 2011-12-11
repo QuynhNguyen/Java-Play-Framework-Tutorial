@@ -3,4 +3,6 @@
 /lib
 /test-result
 /logs
-/test-result
+/modules
+/data
+/db
